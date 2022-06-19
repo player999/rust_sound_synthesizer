@@ -669,10 +669,10 @@
           [{"note": "d1", "len":  1.0},{"note": "gs", "len":  1.0}]
         ],
         [
-          [{"note": "fs", "len":  1.5},{"note": "ds", "len":  1.5},{"note": "fb", "len":  1.5}],
-          [{"note": "es", "len":  0.5},{"note": "cs", "len":  0.5},{"note": "gb", "len":  0.5}],
-          [{"note": "fs", "len":  1.0},{"note": "ds", "len":  1.0},{"note": "fb", "len":  1.0}],
-          [{"note": "ds", "len":  1.0},{"note": "hb", "len":  1.0},{"note": "fb", "len":  1.0}]
+          [{"note": "d2", "len":  1.5},{"note": "h1", "len":  1.5},{"note": "d1", "len":  1.5}],
+          [{"note": "c2", "len":  0.5},{"note": "a1", "len":  0.5},{"note": "e1", "len":  0.5}],
+          [{"note": "d2", "len":  1.0},{"note": "h1", "len":  1.0},{"note": "d1", "len":  1.0}],
+          [{"note": "h1", "len":  1.0},{"note": "g1", "len":  1.0},{"note": "d1", "len":  1.0}]
         ],
         [
           [{"note": "gs", "len":  1.0},{"note": "gb", "len":  1.0}],
