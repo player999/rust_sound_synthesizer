@@ -1,0 +1,779 @@
+{
+  "name": "National Anthem of Ukraine",
+  "bpm": 78,
+  "channels": [
+    { "volume": 0.35 },
+    { "volume": 0.15 },
+    { "volume": 0.35 },
+    { "volume": 0.15 }
+  ],
+  "composition": [
+    {
+      "channels": [
+        [
+          [{"note": "p", "len":  4}]
+        ],
+        [
+          [{"note": "p", "len":  4}]
+        ],
+        [
+          [{"note": "h1", "len":  3}, {"note": "g1", "len":  3}, {"note": "d1", "len":  3}],
+          [{"note": "h1", "len":  0.5}, {"note": "g1", "len":  0.5}, {"note": "d1", "len":  0.5}],
+          [{"note": "p", "len":  0.5}]
+        ],
+        [
+          [{"note": "gb", "len":  3},{"note": "gc", "len":  3}],
+          [{"note": "ac", "len":  0.5}],
+          [{"note": "p", "len":  0.5}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "h1", "len":  1.5}, {"note": "g1", "len":  1.5}],
+          [{"note": "h1", "len":  0.5}, {"note": "g1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5}, {"note": "g1", "len":  0.5}],
+          [{"note": "a1", "len":  0.5}, {"note": "f1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5}, {"note": "g1", "len":  0.5}],
+          [{"note": "c2", "len":  0.5}, {"note": "a1", "len":  0.5}]
+        ],
+        [
+          [{"note": "d1", "len":  1.5}, {"note": "gs", "len":  1.5}],
+          [{"note": "d1", "len":  0.5}, {"note": "gs", "len":  0.5}],
+          [{"note": "d1", "len":  1.5}, {"note": "gs", "len":  1.5}],
+          [{"note": "d1", "len":  0.5}, {"note": "gs", "len":  0.5}]
+        ],
+        [
+          [{"note": "h1", "len":  1.5}, {"note": "g1", "len":  1.5}, {"note": "e1", "len":  1.5}],
+          [{"note": "h1", "len":  0.5}, {"note": "g1", "len":  0.5}, {"note": "d1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5}, {"note": "g1", "len":  0.5}, {"note": "d1", "len":  0.5}],
+          [{"note": "a1", "len":  0.5}, {"note": "f1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5}, {"note": "g1", "len":  0.5}],
+          [{"note": "c2", "len":  0.5}, {"note": "a1", "len":  0.5}]
+        ],
+        [
+          [{"note": "gc", "len":  1.5}, {"note": "gb", "len":  1.5}],
+          [{"note": "gc", "len":  0.5}, {"note": "gb", "len":  0.5}],
+          [{"note": "ds", "len":  2.0}, {"note": "db", "len":  2.0}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "d2", "len":  1.5}, {"note": "h1", "len":  1.5}],
+          [{"note": "c2", "len":  0.5}, {"note": "a1", "len":  0.5}],
+          [{"note": "h1", "len":  1.0}, {"note": "g1", "len":  1.0}],
+          [{"note": "a1", "len":  1.0}, {"note": "f1", "len":  1.0}]
+        ],
+        [
+          [{"note": "d1", "len":  1.5}, {"note": "gs", "len":  1.5}],
+          [{"note": "d1", "len":  0.5}, {"note": "fs", "len":  0.5}],
+          [{"note": "d1", "len":  1.0}, {"note": "gs", "len":  1.0}],
+          [{"note": "c1", "len":  1.0}, {"note": "Ds", "len":  1.0}]
+        ],
+        [
+          [{"note": "d2", "len":  1.5}, {"note": "h1", "len":  1.5}, {"note": "d1", "len":  1.5}],
+          [{"note": "c2", "len":  0.5}, {"note": "a1", "len":  0.5}, {"note": "d1", "len":  0.5}],
+          [{"note": "h1", "len":  1.0}, {"note": "g1", "len":  1.0}, {"note": "d1", "len":  1.0}],
+          [{"note": "a1", "len":  1.0}, {"note": "f1", "len":  1.0}, {"note": "c1", "len":  1.0}]
+        ],
+        [
+          [{"note": "gs", "len":  1.5}, {"note": "gb", "len":  1.5}],
+          [{"note": "fs", "len":  0.5}, {"note": "fb", "len":  0.5}],
+          [{"note": "gs", "len":  1.0}, {"note": "gb", "len":  1.0}],
+          [{"note": "Ds", "len":  1.0}, {"note": "Fb", "len":  1.0}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "g1", "len":  1}],
+          [{"note": "h1", "len":  1},{"note": "e1", "len":  1}],
+          [{"note": "f1", "len":  1},{"note": "d1", "len":  1}],
+          [{"note": "h1", "len":  1},{"note": "d1", "len":  1}]
+        ],
+        [
+          [{"note": "hs", "len":  1},{"note": "es", "len":  1}],
+          [{"note": "hs", "len":  1},{"note": "gs", "len":  1}],
+          [{"note": "hs", "len":  1}],
+          [{"note": "hs", "len":  1},{"note": "as", "len":  1}]
+        ],
+        [
+          [{"note": "g1", "len":  1},{"note": "e1", "len":  1}, {"note": "hs", "len":  1}],
+          [{"note": "h1", "len":  1},{"note": "e1", "len":  1}, {"note": "hs", "len":  1}],
+          [{"note": "F1", "len":  1},{"note": "D1", "len":  1}],
+          [{"note": "h1", "len":  1},{"note": "f1", "len":  1}, {"note": "d1", "len":  1}, {"note": "hs", "len":  1}]
+        ],
+        [
+          [{"note": "es", "len":  1},{"note": "eb", "len":  1}],
+          [{"note": "gs", "len":  1},{"note": "gb", "len":  1}],
+          [{"note": "hs", "len":  1},{"note": "hb", "len":  1}],
+          [{"note": "as", "len":  1},{"note": "ab", "len":  1}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "e1", "len":  1.5}],
+          [{"note": "F1", "len":  0.5}, {"note": "D1", "len":  0.5}],
+          [{"note": "g1", "len":  1.0}, {"note": "e1", "len":  1.0}],
+          [{"note": "a1", "len":  1.0}, {"note": "f1", "len":  1.0}]
+        ],
+        [
+          [{"note": "hs", "len":  1.5}, {"note": "gs", "len":  1.5}],
+          [{"note": "fs", "len":  0.5}],
+          [{"note": "es", "len":  1.0}],
+          [{"note": "d1", "len":  1.0}, {"note": "ds", "len":  1.0}]
+        ],
+        [
+          [{"note": "e1", "len":  1.5}, {"note": "hs", "len":  1.5}],
+          [{"note": "F1", "len":  0.5}, {"note": "D1", "len":  0.5},{"note": "hs", "len":  0.5}],
+          [{"note": "g1", "len":  1.0}, {"note": "e1", "len":  1.0}, {"note": "hs", "len":  1.0}],
+          [{"note": "a1", "len":  1.0}, {"note": "f1", "len":  1.0}, {"note": "d1", "len":  1.0}]
+        ],
+        [
+          [{"note": "gs", "len":  0.5}, {"note": "gb", "len":  0.5}],
+          [{"note": "as", "len":  0.5}, {"note": "ab", "len":  0.5}],
+          [{"note": "gs", "len":  0.5}, {"note": "gb", "len":  0.5}],
+          [{"note": "fs", "len":  0.5}, {"note": "fb", "len":  0.5}],
+          [{"note": "es", "len":  0.5}, {"note": "eb", "len":  0.5}],
+          [{"note": "ds", "len":  0.5}, {"note": "db", "len":  0.5}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "h1", "len":  1.5}, {"note": "g1", "len":  1.5}],
+          [{"note": "h1", "len":  0.5}, {"note": "g1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5}, {"note": "g1", "len":  0.5}],
+          [{"note": "a1", "len":  0.5}, {"note": "f1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5}, {"note": "g1", "len":  0.5}],
+          [{"note": "c2", "len":  0.5}, {"note": "a1", "len":  0.5}]
+        ],
+        [
+          [{"note": "d1", "len":  1.5}, {"note": "gs", "len":  1.5}],
+          [{"note": "d1", "len":  0.5}, {"note": "gs", "len":  0.5}],
+          [{"note": "d1", "len":  1.5}, {"note": "gs", "len":  1.5}],
+          [{"note": "d1", "len":  0.5}, {"note": "gs", "len":  0.5}]
+        ],
+        [
+          [{"note": "h1", "len":  1.5}, {"note": "g1", "len":  1.5}, {"note": "e1", "len":  1.5}],
+          [{"note": "h1", "len":  0.5}, {"note": "g1", "len":  0.5}, {"note": "d1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5}, {"note": "g1", "len":  0.5}, {"note": "d1", "len":  0.5}],
+          [{"note": "a1", "len":  0.5}, {"note": "f1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5}, {"note": "g1", "len":  0.5}],
+          [{"note": "c2", "len":  0.5}, {"note": "a1", "len":  0.5}]
+        ],
+        [
+          [{"note": "gs", "len":  1.0}, {"note": "gb", "len":  1.0}],
+          [{"note": "fs", "len":  0.5}, {"note": "fb", "len":  0.5}],
+          [{"note": "es", "len":  0.5}, {"note": "eb", "len":  0.5}],
+          [{"note": "ds", "len":  0.5}, {"note": "db", "len":  0.5}],
+          [{"note": "cs", "len":  0.5}, {"note": "cb", "len":  0.5}],
+          [{"note": "hb", "len":  0.5}, {"note": "hc", "len":  0.5}],
+          [{"note": "ab", "len":  0.5}, {"note": "ac", "len":  0.5}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "d2", "len":  1.5}, {"note": "h1", "len":  1.5}],
+          [{"note": "c2", "len":  0.5}, {"note": "a1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5}, {"note": "g1", "len":  1.0}],
+          [{"note": "a1", "len":  0.5}, {"note": "f1", "len":  1.0}]
+        ],
+        [
+          [{"note": "d1", "len":  1.5}, {"note": "gs", "len":  1.5}],
+          [{"note": "d1", "len":  0.5}, {"note": "fs", "len":  0.5}],
+          [{"note": "d1", "len":  1.0}, {"note": "gs", "len":  1.0}],
+          [{"note": "hs", "len":  1.0}, {"note": "as", "len":  1.0}]
+        ],
+        [
+          [{"note": "d2", "len":  1.5}, {"note": "h1", "len":  1.5}, {"note": "d1", "len":  1.5}],
+          [{"note": "c2", "len":  0.5}, {"note": "a1", "len":  0.5}, {"note": "d1", "len":  0.5}],
+          [{"note": "h1", "len":  1.0}, {"note": "g1", "len":  1.0}, {"note": "d1", "len":  1.0}],
+          [{"note": "a1", "len":  1.0}, {"note": "f1", "len":  1.0}, {"note": "c1", "len":  1.0}]
+        ],
+        [
+          [{"note": "gb", "len":  0.5}, {"note": "gc", "len":  0.5}],
+          [{"note": "fb", "len":  0.5}, {"note": "fc", "len":  0.5}],
+          [{"note": "eb", "len":  0.5}, {"note": "ec", "len":  0.5}],
+          [{"note": "fb", "len":  0.5}, {"note": "fc", "len":  0.5}],
+          [{"note": "gb", "len":  1.0}, {"note": "gc", "len":  1.0}],
+          [{"note": "ab", "len":  1.0}, {"note": "ac", "len":  1.0}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "g1", "len":  1.0}, {"note": "e1", "len":  1.0}],
+          [{"note": "h1", "len":  1.0}, {"note": "e1", "len":  1.0}],
+          [{"note": "f1", "len":  1.0}, {"note": "e1", "len":  1.0}],
+          [{"note": "h1", "len":  1.0}, {"note": "D1", "len":  1.0}]
+        ],
+        [
+          [{"note": "hs", "len":  1.0}, {"note": "es", "len":  1.0}],
+          [{"note": "hs", "len":  1.0}, {"note": "es", "len":  1.0}],
+          [{"note": "d1", "len":  1.0}, {"note": "ds", "len":  1.0}],
+          [{"note": "d1", "len":  1.0}, {"note": "ds", "len":  1.0}]
+        ],
+        [
+          [{"note": "g1", "len":  1.0}, {"note": "e1", "len":  1.0}, {"note": "hs", "len":  1.0}],
+          [{"note": "g1", "len":  1.0}, {"note": "e1", "len":  1.0}, {"note": "hs", "len":  1.0}],
+          [{"note": "a1", "len":  1.0}, {"note": "f1", "len":  1.0}, {"note": "d1", "len":  1.0}],
+          [{"note": "a1", "len":  1.0}, {"note": "f1", "len":  1.0}, {"note": "c1", "len":  1.0}]
+        ],
+        [
+          [{"note": "es", "len":  0.5}, {"note": "eb", "len":  0.5}],
+          [{"note": "fs", "len":  0.5}, {"note": "fb", "len":  0.5}],
+          [{"note": "gs", "len":  0.5}, {"note": "gb", "len":  0.5}],
+          [{"note": "es", "len":  0.5}, {"note": "eb", "len":  0.5}],
+          [{"note": "ds", "len":  1.5}, {"note": "db", "len":  1.5}],
+          [{"note": "ds", "len":  0.5}, {"note": "db", "len":  0.5}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "e1", "len":  2.0}],
+          [{"note": "e1", "len":  1.0}],
+          [{"note": "p", "len":  1.0}]
+        ],
+        [
+          [{"note": "gs", "len":  2.0}, {"note": "es", "len":  2.0}],
+          [{"note": "gs", "len":  1.0}, {"note": "es", "len":  1.0}],
+          [{"note": "p", "len":  1.0}]
+        ],
+        [
+          [{"note": "e1", "len":  2.0}, {"note": "gs", "len":  2.0}],
+          [{"note": "e1", "len":  1.0}, {"note": "gs", "len":  1.0}],
+          [{"note": "p", "len":  1.0}]
+        ],
+        [
+          [{"note": "es", "len":  1.0}, {"note": "eb", "len":  1.0}],
+          [{"note": "hb", "len":  1.0}, {"note": "hc", "len":  1.0}],
+          [{"note": "eb", "len":  0.5}, {"note": "ec", "len":  0.5}],
+          [{"note": "fb", "len":  0.5}, {"note": "fc", "len":  0.5}],
+          [{"note": "gb", "len":  0.5}, {"note": "gc", "len":  0.5}],
+          [{"note": "ab", "len":  0.5}, {"note": "ac", "len":  0.5}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "f1", "len":  1.5}, {"note": "d1", "len":  1.5}],
+          [{"note": "f1", "len":  0.5}, {"note": "d1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5}, {"note": "d1", "len":  0.5}],
+          [{"note": "a1", "len":  0.5}, {"note": "f1", "len":  0.5}],
+          [{"note": "g1", "len":  0.5}, {"note": "e1", "len":  0.5}],
+          [{"note": "f1", "len":  0.5}, {"note": "d1", "len":  0.5}]
+        ],
+        [
+          [{"note": "hs", "len":  1.5}],
+          [{"note": "hs", "len":  0.5}],
+          [{"note": "hs", "len":  1.5}],
+          [{"note": "hs", "len":  0.5}, {"note": "as", "len":  0.5}]
+        ],
+        [
+          [{"note": "f1", "len":  1.5}, {"note": "d1", "len":  1.5}, {"note": "hs", "len":  1.5}],
+          [{"note": "f1", "len":  0.5}, {"note": "d1", "len":  0.5}, {"note": "hs", "len":  0.5}],
+          [{"note": "h1", "len":  0.5}, {"note": "d1", "len":  0.5}, {"note": "hs", "len":  0.5}],
+          [{"note": "a1", "len":  0.5}, {"note": "f1", "len":  0.5}],
+          [{"note": "g1", "len":  0.5}, {"note": "e1", "len":  0.5}],
+          [{"note": "f1", "len":  0.5}, {"note": "d1", "len":  0.5}]
+        ],
+        [
+          [{"note": "ds", "len":  1.5}, {"note": "hc", "len":  1.5}],
+          [{"note": "ds", "len":  0.5}, {"note": "hc", "len":  0.5}],
+          [{"note": "ds", "len":  1.5}, {"note": "hc", "len":  1.5}],
+          [{"note": "hc", "len":  0.5}, {"note": "ac", "len":  0.5}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "e1", "len":  0.5}],
+          [{"note": "f1", "len":  0.5},{"note": "d1", "len":  0.5}],
+          [{"note": "g1", "len":  0.5},{"note": "e1", "len":  0.5}],
+          [{"note": "e1", "len":  0.5}],
+          [{"note": "f1", "len":  1.0},{"note": "d1", "len":  1.0}],
+          [{"note": "f1", "len":  1.0},{"note": "d1", "len":  1.0}],
+          [{"note": "f1", "len":  1.0},{"note": "d1", "len":  1.0}]
+        ],
+        [
+          [{"note": "hs", "len":  0.5},{"note": "gs", "len":  0.5}],
+          [{"note": "hs", "len":  0.5},{"note": "fs", "len":  0.5}],
+          [{"note": "hs", "len":  0.5},{"note": "es", "len":  0.5}],
+          [{"note": "hs", "len":  0.5},{"note": "gs", "len":  0.5}],
+          [{"note": "hs", "len":  1.0}],
+          [{"note": "hs", "len":  1.0}]
+        ],
+        [
+          [{"note": "es", "len":  0.5},{"note": "hs", "len":  0.5}],
+          [{"note": "es", "len":  0.5},{"note": "hs", "len":  0.5}],
+          [{"note": "f1", "len":  0.5},{"note": "d1", "len":  0.5},{"note": "hs", "len":  0.5}],
+          [{"note": "g1", "len":  0.5},{"note": "e1", "len":  0.5},{"note": "hs", "len":  0.5}],
+          [{"note": "e1", "len":  0.5},{"note": "hs", "len":  0.5}],
+          [{"note": "es", "len":  1},{"note": "hs", "len":  1}],
+          [{"note": "es", "len":  1},{"note": "hs", "len":  1}]
+        ],
+        [
+          [{"note": "gb", "len":  0.5},{"note": "gc", "len":  0.5}],
+          [{"note": "fb", "len":  0.5},{"note": "fc", "len":  0.5}],
+          [{"note": "eb", "len":  0.5},{"note": "ec", "len":  0.5}],
+          [{"note": "gb", "len":  0.5},{"note": "gc", "len":  0.5}],
+          [{"note": "hb", "len":  1},{"note": "hc", "len":  1}],
+          [{"note": "hb", "len":  1},{"note": "hc", "len":  1}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "g1", "len":  1.0},{"note": "e1", "len":  1.0}],
+          [{"note": "g1", "len":  1.0},{"note": "e1", "len":  1.0}],
+          [{"note": "a1", "len":  1.0},{"note": "f1", "len":  1.0}],
+          [{"note": "a1", "len":  1.0},{"note": "f1", "len":  1.0}]
+        ],
+        [
+          [{"note": "hs", "len":  1.0},{"note": "es", "len":  1.0}],
+          [{"note": "hs", "len":  1.0},{"note": "es", "len":  1.0}],
+          [{"note": "d1", "len":  1.0},{"note": "ds", "len":  1.0}],
+          [{"note": "d1", "len":  1.0},{"note": "ds", "len":  1.0}]
+        ],
+        [
+          [{"note": "g1", "len":  1.0},{"note": "e1", "len":  1.0},{"note": "hs", "len":  1.0}],
+          [{"note": "g1", "len":  1.0},{"note": "e1", "len":  1.0},{"note": "hs", "len":  1.0}],
+          [{"note": "a1", "len":  1.0},{"note": "f1", "len":  1.0},{"note": "d1", "len":  1.0}],
+          [{"note": "a1", "len":  1.0},{"note": "f1", "len":  1.0},{"note": "c1", "len":  1.0}]
+        ],
+        [
+          [{"note": "es", "len":  0.5},{"note": "eb", "len":  0.5}],
+          [{"note": "fs", "len":  0.5},{"note": "fb", "len":  0.5}],
+          [{"note": "gs", "len":  0.5},{"note": "gb", "len":  0.5}],
+          [{"note": "es", "len":  0.5},{"note": "eb", "len":  0.5}],
+          [{"note": "ds", "len":  1.5},{"note": "db", "len":  1.5}],
+          [{"note": "ds", "len":  0.5},{"note": "db", "len":  0.5}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "h1", "len":  2.0},{"note": "g1", "len":  2.0}],
+          [{"note": "h1", "len":  1.0},{"note": "g1", "len":  1.0}],
+          [{"note": "p", "len":  1.0}]
+        ],
+        [
+          [{"note": "hs", "len":  2.0},{"note": "gs", "len":  2.0}],
+          [{"note": "hs", "len":  1.0},{"note": "gs", "len":  1.0}],
+          [{"note": "p", "len":  1.0}]
+        ],
+        [
+          [{"note": "h1", "len":  2.0},{"note": "g1", "len":  2.0},{"note": "hs", "len":  2.0}],
+          [{"note": "h1", "len":  1.0},{"note": "g1", "len":  1.0}],
+          [{"note": "p", "len":  1.0}]
+        ],
+        [
+          [{"note": "gb", "len":  1.0},{"note": "gc", "len":  1.0}],
+          [{"note": "hb", "len":  0.5},{"note": "hc", "len":  0.5}],
+          [{"note": "ab", "len":  0.5},{"note": "ac", "len":  0.5}],
+          [{"note": "gb", "len":  0.5},{"note": "gc", "len":  0.5}],
+          [{"note": "fb", "len":  0.5},{"note": "fc", "len":  0.5}],
+          [{"note": "gb", "len":  0.5},{"note": "gc", "len":  0.5}],
+          [{"note": "ab", "len":  0.5},{"note": "ac", "len":  0.5}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "f1", "len":  1.5},{"note": "d1", "len":  1.5}],
+          [{"note": "f1", "len":  0.5},{"note": "d1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5},{"note": "d1", "len":  0.5}],
+          [{"note": "a1", "len":  0.5},{"note": "f1", "len":  0.5}],
+          [{"note": "g1", "len":  0.5},{"note": "e1", "len":  0.5}],
+          [{"note": "f1", "len":  0.5},{"note": "d1", "len":  0.5}]
+        ],
+        [
+          [{"note": "hs", "len":  1.5}],
+          [{"note": "hs", "len":  0.5}],
+          [{"note": "hs", "len":  1.5}],
+          [{"note": "hs", "len":  0.5},{"note": "as", "len":  0.5}]
+        ],
+        [
+          [{"note": "f1", "len":  1.5},{"note": "d1", "len":  1.5},{"note": "hs", "len":  1.5}],
+          [{"note": "f1", "len":  0.5},{"note": "d1", "len":  0.5},{"note": "hs", "len":  0.5}],
+          [{"note": "h1", "len":  0.5},{"note": "d1", "len":  0.5},{"note": "hs", "len":  0.5}],
+          [{"note": "a1", "len":  0.5},{"note": "f1", "len":  0.5}],
+          [{"note": "g1", "len":  0.5},{"note": "e1", "len":  0.5}],
+          [{"note": "f1", "len":  0.5},{"note": "d1", "len":  0.5}]
+        ],
+        [
+          [{"note": "ds", "len":  1.5},{"note": "hc", "len":  1.5}],
+          [{"note": "cs", "len":  0.5},{"note": "ac", "len":  0.5}],
+          [{"note": "ds", "len":  1.5},{"note": "hc", "len":  1.5}],
+          [{"note": "ab", "len":  0.5},{"note": "ac", "len":  0.5}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "e1", "len":  0.5}],
+          [{"note": "f1", "len":  0.5},{"note": "d1", "len":  0.5}],
+          [{"note": "g1", "len":  0.5},{"note": "e1", "len":  0.5}],
+          [{"note": "e1", "len":  0.5}],
+          [{"note": "f1", "len":  1.0},{"note": "d1", "len":  1.0}],
+          [{"note": "f1", "len":  1.0},{"note": "d1", "len":  1.0}]
+        ],
+        [
+          [{"note": "hs", "len":  0.5},{"note": "gs", "len":  0.5}],
+          [{"note": "hs", "len":  0.5},{"note": "fs", "len":  0.5}],
+          [{"note": "hs", "len":  0.5},{"note": "es", "len":  0.5}],
+          [{"note": "hs", "len":  0.5},{"note": "gs", "len":  0.5}],
+          [{"note": "hs", "len":  1.0}],
+          [{"note": "hs", "len":  1.0}]
+        ],
+        [
+          [{"note": "e1", "len":  0.5},{"note": "hs", "len":  0.5}],
+          [{"note": "f1", "len":  0.5},{"note": "d1", "len":  0.5},{"note": "hs", "len":  0.5}],
+          [{"note": "g1", "len":  0.5},{"note": "e1", "len":  0.5},{"note": "hs", "len":  0.5}],
+          [{"note": "e1", "len":  0.5},{"note": "hs", "len":  0.5}],
+          [{"note": "f1", "len":  1.0},{"note": "d1", "len":  1.0},{"note": "hs", "len":  1.0}],
+          [{"note": "f1", "len":  1.0},{"note": "d1", "len":  1.0},{"note": "hs", "len":  1.0}]
+        ],
+        [
+          [{"note": "gb", "len":  0.5},{"note": "gc", "len":  0.5}],
+          [{"note": "fb", "len":  0.5},{"note": "fc", "len":  0.5}],
+          [{"note": "eb", "len":  0.5},{"note": "ec", "len":  0.5}],
+          [{"note": "gb", "len":  0.5},{"note": "gc", "len":  0.5}],
+          [{"note": "hb", "len":  1.0},{"note": "hc", "len":  1.0}],
+          [{"note": "hb", "len":  1.0},{"note": "hc", "len":  1.0}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "g1", "len":  1.0},{"note": "e1", "len":  1.0}],
+          [{"note": "h1", "len":  1.0},{"note": "e1", "len":  1.0}],
+          [{"note": "f1", "len":  1.0},{"note": "e1", "len":  1.0}],
+          [{"note": "h1", "len":  1.0},{"note": "d1", "len":  1.0}]
+        ],
+        [
+          [{"note": "hs", "len":  1.0},{"note": "es", "len":  1.0}],
+          [{"note": "hs", "len":  1.0},{"note": "gs", "len":  1.0}],
+          [{"note": "hs", "len":  1.0}],
+          [{"note": "as", "len":  1.0},{"note": "hb", "len":  1.0}]
+        ],
+        [
+          [{"note": "g1", "len":  1.0},{"note": "e1", "len":  1.0},{"note": "hs", "len":  1.0}],
+          [{"note": "h1", "len":  1.0},{"note": "e1", "len":  1.0},{"note": "hs", "len":  1.0}],
+          [{"note": "f1", "len":  1.0},{"note": "e1", "len":  1.0},{"note": "hs", "len":  1.0}],
+          [{"note": "h1", "len":  1.0},{"note": "e1", "len":  1.0},{"note": "hs", "len":  1.0}]
+        ],
+        [
+          [{"note": "eb", "len":  0.5},{"note": "ec", "len":  0.5}],
+          [{"note": "fb", "len":  0.5},{"note": "fc", "len":  0.5}],
+          [{"note": "gb", "len":  0.5},{"note": "gc", "len":  0.5}],
+          [{"note": "ab", "len":  0.5},{"note": "ac", "len":  0.5}],
+          [{"note": "hb", "len":  1.5},{"note": "hc", "len":  1.5}],
+          [{"note": "hb", "len":  0.5},{"note": "hc", "len":  0.5}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "e1", "len":  1.5}],
+          [{"note": "f1", "len":  0.5},{"note": "d1", "len":  0.5}],
+          [{"note": "g1", "len":  0.5},{"note": "e1", "len":  0.5}],
+          [{"note": "a1", "len":  0.5},{"note": "f1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5},{"note": "g1", "len":  0.5}],
+          [{"note": "c2", "len":  0.5},{"note": "a1", "len":  0.5}]
+        ],
+        [
+          [{"note": "gs", "len":  1.5},{"note": "es", "len":  1.5}],
+          [{"note": "fs", "len":  0.5},{"note": "ds", "len":  0.5}],
+          [{"note": "gs", "len":  0.5},{"note": "es", "len":  0.5}],
+          [{"note": "as", "len":  0.5},{"note": "fs", "len":  0.5}],
+          [{"note": "hs", "len":  0.5},{"note": "gs", "len":  0.5}],
+          [{"note": "c1", "len":  0.5},{"note": "as", "len":  0.5}]
+        ],
+        [
+          [{"note": "e1", "len":  1.5},{"note": "gs", "len":  1.5}],
+          [{"note": "f1", "len":  0.5},{"note": "d1", "len":  0.5}],
+          [{"note": "g1", "len":  0.5},{"note": "e1", "len":  0.5}],
+          [{"note": "a1", "len":  0.5},{"note": "f1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5},{"note": "g1", "len":  0.5}],
+          [{"note": "c2", "len":  0.5},{"note": "a1", "len":  0.5}]
+        ],
+        [
+          [{"note": "es", "len":  1.0},{"note": "eb", "len":  1.0}],
+          [{"note": "gs", "len":  0.5},{"note": "gb", "len":  0.5}],
+          [{"note": "fs", "len":  0.5},{"note": "fb", "len":  0.5}],
+          [{"note": "es", "len":  0.5},{"note": "eb", "len":  0.5}],
+          [{"note": "ds", "len":  0.5},{"note": "db", "len":  0.5}],
+          [{"note": "cs", "len":  0.5},{"note": "cb", "len":  0.5}],
+          [{"note": "hb", "len":  0.5},{"note": "hc", "len":  0.5}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "d2", "len":  1.5},{"note": "h1", "len":  1.5}],
+          [{"note": "c2", "len":  0.5},{"note": "a1", "len":  0.5}],
+          [{"note": "d2", "len":  1.0},{"note": "h1", "len":  1.0}],
+          [{"note": "h1", "len":  1.0},{"note": "g1", "len":  1.0}]
+        ],
+        [
+          [{"note": "d1", "len":  1.5},{"note": "gs", "len":  1.5}],
+          [{"note": "e1", "len":  0.5},{"note": "gs", "len":  0.5}],
+          [{"note": "d1", "len":  1.0},{"note": "gs", "len":  1.0}],
+          [{"note": "d1", "len":  1.0},{"note": "gs", "len":  1.0}]
+        ],
+        [
+          [{"note": "d2", "len":  1.5},{"note": "h1", "len":  1.5},{"note": "d1", "len":  1.5}],
+          [{"note": "c2", "len":  0.5},{"note": "a1", "len":  0.5},{"note": "e1", "len":  0.5}],
+          [{"note": "d2", "len":  1.0},{"note": "h1", "len":  1.0},{"note": "d1", "len":  1.0}],
+          [{"note": "h1", "len":  1.0},{"note": "g1", "len":  1.0},{"note": "d1", "len":  1.0}]
+        ],
+        [
+          [{"note": "gb", "len":  1.0},{"note": "gc", "len":  1.0}],
+          [{"note": "ds", "len":  1.0},{"note": "db", "len":  1.0}],
+          [{"note": "gs", "len":  1.0},{"note": "gb", "len":  1.0}],
+          [{"note": "ds", "len":  1.0},{"note": "db", "len":  1.0}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "a1", "len":  1.0},{"note": "f1", "len":  1.0}],
+          [{"note": "a1", "len":  1.0},{"note": "f1", "len":  1.0}],
+          [{"note": "d2", "len":  0.5},{"note": "e1", "len":  0.5}],
+          [{"note": "c2", "len":  0.5},{"note": "a1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5},{"note": "g1", "len":  0.5}],
+          [{"note": "a1", "len":  0.5},{"note": "f1", "len":  0.5}]
+        ],
+        [
+          [{"note": "c1", "len":  1.0},{"note": "ds", "len":  1.0}],
+          [{"note": "c1", "len":  1.0},{"note": "ds", "len":  1.0}],
+          [{"note": "d1", "len":  1.5},{"note": "ds", "len":  1.5}],
+          [{"note": "c1", "len":  0.5},{"note": "ds", "len":  0.5}]
+        ],
+        [
+          [{"note": "a1", "len":  1.0},{"note": "f1", "len":  1.0},{"note": "d1", "len":  1.0}],
+          [{"note": "a1", "len":  1.0},{"note": "f1", "len":  1.0},{"note": "d1", "len":  1.0}],
+          [{"note": "d2", "len":  0.5},{"note": "f1", "len":  0.5},{"note": "d1", "len":  0.5}],
+          [{"note": "c2", "len":  0.5},{"note": "a1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5},{"note": "g1", "len":  0.5}],
+          [{"note": "a1", "len":  0.5},{"note": "f1", "len":  0.5},{"note": "c1", "len":  0.5}]
+        ],
+        [
+          [{"note": "as", "len":  0.5},{"note": "ab", "len":  0.5}],
+          [{"note": "gs", "len":  0.5},{"note": "gb", "len":  0.5}],
+          [{"note": "fs", "len":  0.5},{"note": "fb", "len":  0.5}],
+          [{"note": "es", "len":  0.5},{"note": "eb", "len":  0.5}],
+          [{"note": "ds", "len":  1.5},{"note": "db", "len":  1.5}],
+          [{"note": "ds", "len":  0.5},{"note": "db", "len":  0.5}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "g1", "len":  1.0},{"note": "e1", "len":  1.0}],
+          [{"note": "g1", "len":  1.0},{"note": "e1", "len":  1.0}],
+          [{"note": "a1", "len":  1.0},{"note": "e1", "len":  1.0}],
+          [{"note": "a1", "len":  1.0},{"note": "e1", "len":  1.0}]
+        ],
+        [
+          [{"note": "hs", "len":  1.0},{"note": "es", "len":  1.0}],
+          [{"note": "hs", "len":  1.0},{"note": "es", "len":  1.0}],
+          [{"note": "e1", "len":  1.0},{"note": "cs", "len":  1.0}],
+          [{"note": "e1", "len":  1.0},{"note": "cs", "len":  1.0}]
+        ],
+        [
+          [{"note": "g1", "len":  1.0},{"note": "e1", "len":  1.0},{"note": "hs", "len":  1.0}],
+          [{"note": "g1", "len":  1.0},{"note": "e1", "len":  1.0},{"note": "hs", "len":  1.0}],
+          [{"note": "a1", "len":  1.0},{"note": "e1", "len":  1.0},{"note": "as", "len":  1.0}],
+          [{"note": "a1", "len":  1.0},{"note": "e1", "len":  1.0}]
+        ],
+        [
+          [{"note": "es", "len":  0.5},{"note": "eb", "len":  0.5}],
+          [{"note": "fs", "len":  0.5},{"note": "fb", "len":  0.5}],
+          [{"note": "es", "len":  0.5},{"note": "eb", "len":  0.5}],
+          [{"note": "ds", "len":  0.5},{"note": "db", "len":  0.5}],
+          [{"note": "cs", "len":  0.5},{"note": "cb", "len":  0.5}],
+          [{"note": "hb", "len":  0.5},{"note": "hc", "len":  0.5}],
+          [{"note": "cs", "len":  1.0},{"note": "cb", "len":  1.0}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "h1", "len":  1.5},{"note": "f1", "len":  1.5}],
+          [{"note": "a1", "len":  0.5},{"note": "f1", "len":  0.5}],
+          [{"note": "g1", "len":  0.5},{"note": "e1", "len":  0.5}],
+          [{"note": "a1", "len":  0.5},{"note": "f1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5},{"note": "g1", "len":  0.5}],
+          [{"note": "c2", "len":  0.5},{"note": "a1", "len":  0.5}]
+        ],
+        [
+          [{"note": "d1", "len":  2.0},{"note": "hb", "len":  2.0}],
+          [{"note": "e1", "len":  1.5},{"note": "hb", "len":  1.5}],
+          [{"note": "d1", "len":  0.5},{"note": "ab", "len":  0.5}]
+        ],
+        [
+          [{"note": "h1", "len":  1.5},{"note": "f1", "len":  1.5},{"note": "d1", "len":  1.5}],
+          [{"note": "a1", "len":  0.5}],
+          [{"note": "g1", "len":  0.5},{"note": "e1", "len":  0.5}],
+          [{"note": "a1", "len":  0.5},{"note": "f1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5},{"note": "g1", "len":  0.5}],
+          [{"note": "c2", "len":  0.5},{"note": "a1", "len":  0.5},{"note": "d1", "len":  0.5}]
+        ],
+        [
+          [{"note": "hb", "len":  1.0},{"note": "hc", "len":  1.0}],
+          [{"note": "hs", "len":  2.0},{"note": "hb", "len":  2.0}],
+          [{"note": "hs", "len":  0.5},{"note": "hb", "len":  0.5}],
+          [{"note": "as", "len":  0.5},{"note": "ab", "len":  0.5}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "d2", "len":  1.5},{"note": "h1", "len":  1.5}],
+          [{"note": "c2", "len":  0.5},{"note": "a1", "len":  0.5}],
+          [{"note": "d2", "len":  1.0},{"note": "h1", "len":  1.0}],
+          [{"note": "h1", "len":  1.0},{"note": "g1", "len":  1.0}]
+        ],
+        [
+          [{"note": "d1", "len":  1.5},{"note": "gb", "len":  1.5}],
+          [{"note": "e1", "len":  0.5},{"note": "gb", "len":  0.5}],
+          [{"note": "d1", "len":  1.0},{"note": "gs", "len":  1.0}],
+          [{"note": "d1", "len":  1.0},{"note": "gs", "len":  1.0}]
+        ],
+        [
+          [{"note": "fs", "len":  1.5},{"note": "ds", "len":  1.5},{"note": "fb", "len":  1.5}],
+          [{"note": "es", "len":  0.5},{"note": "cs", "len":  0.5},{"note": "gb", "len":  0.5}],
+          [{"note": "fs", "len":  1.0},{"note": "ds", "len":  1.0},{"note": "fb", "len":  1.0}],
+          [{"note": "ds", "len":  1.0},{"note": "hb", "len":  1.0},{"note": "fb", "len":  1.0}]
+        ],
+        [
+          [{"note": "gs", "len":  1.0},{"note": "gb", "len":  1.0}],
+          [{"note": "ds", "len":  1.0},{"note": "db", "len":  1.0}],
+          [{"note": "gs", "len":  1.0},{"note": "ab", "len":  1.0}],
+          [{"note": "ds", "len":  1.0},{"note": "db", "len":  1.0}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "a1", "len":  1.0},{"note": "f1", "len":  1.0}],
+          [{"note": "a1", "len":  1.0},{"note": "f1", "len":  1.0}],
+          [{"note": "d2", "len":  0.5},{"note": "f1", "len":  0.5}],
+          [{"note": "c2", "len":  0.5},{"note": "a1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5},{"note": "g1", "len":  0.5}],
+          [{"note": "a1", "len":  0.5},{"note": "f1", "len":  0.5}]
+        ],
+        [
+          [{"note": "d1", "len":  1.0},{"note": "ds", "len":  1.0}],
+          [{"note": "d1", "len":  1.0},{"note": "ds", "len":  1.0}],
+          [{"note": "d1", "len":  1.5},{"note": "ds", "len":  1.5}],
+          [{"note": "d1", "len":  0.5},{"note": "ds", "len":  0.5}]
+        ],
+        [
+          [{"note": "a1", "len":  1.0},{"note": "f1", "len":  1.0},{"note": "d1", "len":  1.0}],
+          [{"note": "a1", "len":  1.0},{"note": "f1", "len":  1.0},{"note": "d1", "len":  1.0}],
+          [{"note": "d2", "len":  0.5},{"note": "f1", "len":  0.5},{"note": "d1", "len":  0.5}],
+          [{"note": "c2", "len":  0.5},{"note": "a1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5},{"note": "g1", "len":  0.5}],
+          [{"note": "a1", "len":  0.5},{"note": "f1", "len":  0.5},{"note": "c1", "len":  0.5}]
+        ],
+        [
+          [{"note": "as", "len":  0.5},{"note": "ab", "len":  0.5}],
+          [{"note": "gs", "len":  0.5},{"note": "gb", "len":  0.5}],
+          [{"note": "fs", "len":  0.5},{"note": "fb", "len":  0.5}],
+          [{"note": "es", "len":  0.5},{"note": "eb", "len":  0.5}],
+          [{"note": "ds", "len":  1.5},{"note": "db", "len":  1.5}],
+          [{"note": "ds", "len":  0.5},{"note": "db", "len":  0.5}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "g1", "len":  1.0},{"note": "e1", "len":  1.0}],
+          [{"note": "h1", "len":  1.0},{"note": "d1", "len":  1.0}],
+          [{"note": "f1", "len":  1.0},{"note": "d1", "len":  1.0}],
+          [{"note": "h1", "len":  1.0},{"note": "d1", "len":  1.0}]
+        ],
+        [
+          [{"note": "hs", "len":  1.0},{"note": "es", "len":  1.0}],
+          [{"note": "hs", "len":  1.0},{"note": "es", "len":  1.0}],
+          [{"note": "hs", "len":  1.0},{"note": "hb", "len":  1.0}],
+          [{"note": "as", "len":  1.0},{"note": "hb", "len":  1.0}]
+        ],
+        [
+          [{"note": "g1", "len":  1.0},{"note": "e1", "len":  1.0},{"note": "hs", "len":  1.0}],
+          [{"note": "h1", "len":  1.0},{"note": "g1", "len":  1.0},{"note": "e1", "len":  1.0},{"note": "hs", "len":  1.0}],
+          [{"note": "f1", "len":  1.0},{"note": "d1", "len":  1.0},{"note": "hs", "len":  1.0}],
+          [{"note": "h1", "len":  1.0},{"note": "d1", "len":  1.0},{"note": "as", "len":  1.0}]
+        ],
+        [
+          [{"note": "es", "len":  2.0},{"note": "eb", "len":  2.0}],
+          [{"note": "hb", "len":  2.0},{"note": "hc", "len":  2.0}]
+        ]
+      ]
+    },
+    {
+      "channels": [
+        [
+          [{"note": "e1", "len":  2.0}],
+          [{"note": "e1", "len":  1.0}],
+          [{"note": "p", "len":  1.0}]
+
+        ],
+        [
+          [{"note": "gs", "len":  2.0}, {"note": "es", "len":  2.0}],
+          [{"note": "gs", "len":  1.0}, {"note": "es", "len":  1.0}],
+          [{"note": "p", "len":  1.0}]
+        ],
+        [
+          [{"note": "e1", "len":  1.5},{"note": "gs", "len":  1.5}],
+          [{"note": "f1", "len":  0.5},{"note": "d1", "len":  0.5}],
+          [{"note": "g1", "len":  0.5},{"note": "e1", "len":  0.5}],
+          [{"note": "a1", "len":  0.5},{"note": "f1", "len":  0.5}],
+          [{"note": "h1", "len":  0.5},{"note": "g1", "len":  0.5}],
+          [{"note": "a1", "len":  0.5},{"note": "a1", "len":  0.5}]
+        ],
+        [
+          [{"note": "es", "len":  1.0}, {"note": "eb", "len":  1.0}],
+          [{"note": "gs", "len":  0.5}, {"note": "gb", "len":  0.5}],
+          [{"note": "fs", "len":  0.5}, {"note": "fb", "len":  0.5}],
+          [{"note": "es", "len":  0.5}, {"note": "eb", "len":  0.5}],
+          [{"note": "ds", "len":  0.25}, {"note": "db", "len":  0.25}],
+          [{"note": "cs", "len":  0.25}, {"note": "cb", "len":  0.25}],
+          [{"note": "hb", "len":  0.5}, {"note": "hc", "len":  0.5}],
+          [{"note": "ab", "len":  0.5}, {"note": "ac", "len":  0.5}]
+        ]
+      ]
+    }
+  ]
+}
