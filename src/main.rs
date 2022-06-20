@@ -12,31 +12,31 @@ const SAMPLING_RATE: u32 = 44100;
 fn get_tone_table() -> HashMap<&'static str, i8> {
     std::collections::HashMap::from([
         // Sub-counter
-        ("cC", -48), ("CC", -47), ("dC", -46), ("DC", -45), ("eC", -44), ("fC", -43),
-        ("FC", -42), ("gC", -41), ("GC", -40), ("aC", -39), ("AC", -38), ("hC", -37),
+        ("cC", -57), ("CC", -56), ("dC", -55), ("DC", -54), ("eC", -53), ("fC", -52),
+        ("FC", -51), ("gC", -50), ("GC", -49), ("aC", -48), ("AC", -47), ("hC", -46),
 
         //Counter
-        ("cc", -36), ("Cc", -35), ("dc", -34), ("Dc", -33), ("ec", -32), ("fc", -31),
-        ("Fc", -30), ("gc", -29), ("Gc", -28), ("ac", -27), ("Ac", -26), ("hc", -25),
+        ("cc", -45), ("Cc", -44), ("dc", -43), ("Dc", -42), ("ec", -41), ("fc", -40),
+        ("Fc", -39), ("gc", -38), ("Gc", -37), ("ac", -36), ("Ac", -35), ("hc", -34),
 
         //Big
-        ("cb", -24), ("Cb", -23), ("db", -22), ("Db", -21), ("eb", -20), ("fb", -19),
-        ("Fb", -18), ("gb", -17), ("Gb", -16), ("ab", -15), ("Ab", -14), ("hb", -13),
+        ("cb", -33), ("Cb", -32), ("db", -31), ("Db", -30), ("eb", -29), ("fb", -28),
+        ("Fb", -27), ("gb", -26), ("Gb", -25), ("ab", -24), ("Ab", -23), ("hb", -22),
 
         //Small
-        ("cs", -12), ("Cs", -11), ("ds", -10), ("Ds", -9),  ("es", -8),  ("fs", -7),
-        ("Fs", -6),  ("gs", -5),  ("Gs", -4),  ("as", 3),   ("As", -2),  ("hs", -1),
+        ("cs", -21), ("Cs", -20), ("ds", -19), ("Ds", -18), ("es", -17), ("fs", -16),
+        ("Fs", -15), ("gs", -14), ("Gs", -13), ("as", -12), ("As", -11), ("hs", -10),
 
         //First
-        ("c1", 0),   ("C1", 1),   ("d1", 2),   ("D1", 3),   ("e1", 4),   ("f1", 5),
-        ("F1", 6),   ("g1", 7),   ("G1", 8),   ("a1", 9),   ("A1", 10),  ("h1", 11),
+        ("c1", -9),  ("C1", -8),  ("d1", -7),  ("D1", -6),  ("e1", -5),  ("f1", -4),
+        ("F1", -3),  ("g1", -2),  ("G1", -1),  ("a1", 0),   ("A1", 1),   ("h1", 2),
 
         //Second
-        ("c2", 0),   ("C2", 1),   ("d2", 2),   ("D2", 3),   ("e2", 4),   ("f2", 5),
-        ("F2", 6),   ("g2", 7),   ("G2", 8),   ("a2", 9),   ("A2", 10),  ("h2", 11),
+        ("c2", 3),   ("C2", 4),   ("d2", 5),   ("D2", 6),   ("e2", 7),   ("f2", 8),
+        ("F2", 9),   ("g2", 10),  ("G2", 11),  ("a2", 12),  ("A2", 13),  ("h2", 14),
 
         //Third
-        ("c3", 12),  ("C3", 13),  ("d3", 14),  ("D3", 15),  ("e3", 16),  ("f3", 17),
+        ("c3", 15),  ("C3", 16),  ("d3", 17),  ("D3", 15),  ("e3", 16),  ("f3", 17),
         ("F3", 18),  ("g3", 19),  ("G3", 20),  ("a3", 21),  ("A3", 22),  ("h3", 23),
 
         //Fourth
@@ -49,13 +49,18 @@ fn get_tone_table() -> HashMap<&'static str, i8> {
     ])
 }
 
+fn attenuation_curve(time: f32, length: f32) -> f32 {
+    //Not actually curve
+    -(0.5f32/length)*time + 1.0f32
+}
+
 fn create_wave(freq: f32, volume: f32, length: f32) -> Vec<f32> {
     let mut output: std::vec::Vec<f32> = Vec::with_capacity((length as usize) * (SAMPLING_RATE as usize));
     let step = 1.0f32 / (SAMPLING_RATE as f32);
     let mut sample_num: f32 = 0f32;
     while sample_num < length {
         let arg: f32 = 2.0f32 * std::f32::consts::PI * freq * sample_num;
-        output.push(volume * arg.sin());
+        output.push(volume * arg.sin() * attenuation_curve(sample_num, length));
         sample_num = sample_num + step;
     }
     output
